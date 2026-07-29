@@ -65,24 +65,24 @@ export default function App() {
             <div className="space-y-5">
 
               {/* Welcome Banner */}
-              <div className="bg-gradient-to-r from-[#0D1B3E] to-[#1E6FEB] rounded-2xl p-5 flex items-center justify-between">
-                <div>
-                  <p className="text-blue-200 text-xs mb-1">Welcome back 👋</p>
-                  <h2 className="text-white">Good morning, Rahul!</h2>
-                  <p className="text-blue-200 text-xs mt-1">Here's what's happening today.</p>
-                </div>
-                <div className="hidden sm:flex items-center gap-3">
-                  <div className="text-center">
-                    <p className="text-2xl font-bold text-white">28</p>
-                    <p className="text-blue-200 text-xs">Jul 2026</p>
-                  </div>
-                  <div className="w-px h-10 bg-white/20" />
-                  <div className="text-center">
-                    <p className="text-2xl font-bold text-white">Tue</p>
-                    <p className="text-blue-200 text-xs">Tuesday</p>
-                  </div>
-                </div>
-              </div>
+<div className="bg-gradient-to-r from-[#0D1B3E] to-[#1E6FEB] rounded-2xl p-5 flex items-center justify-between">
+  <div>
+    <p className="text-blue-200 text-xs mb-1">Welcome back 👋</p>
+    <h2 className="text-white">Good morning, Admin!</h2>
+    <p className="text-blue-200 text-xs mt-1">Here's your Insight Dashboard overview.</p>
+  </div>
+  <div className="hidden sm:flex items-center gap-3">
+    <div className="text-center">
+      <p className="text-2xl font-bold text-white">28</p>
+      <p className="text-blue-200 text-xs">Jul 2026</p>
+    </div>
+    <div className="w-px h-10 bg-white/20" />
+    <div className="text-center">
+      <p className="text-2xl font-bold text-white">Tue</p>
+      <p className="text-blue-200 text-xs">Tuesday</p>
+    </div>
+  </div>
+</div>
 
               <StatsCards />
 

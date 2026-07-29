@@ -39,13 +39,13 @@ export function UserProfileCard() {
             <h3 className="text-gray-900">Rahul Admin</h3>
             <Star size={13} className="text-amber-400 fill-amber-400" />
           </div>
-          <p className="text-xs text-[#1E6FEB] font-semibold mt-0.5">Administrator · Algoryx</p>
+          <p className="text-xs text-[#1E6FEB] font-semibold mt-0.5">Administrator · Insight Dashboard</p>
         </div>
 
         {/* Contact Info */}
         <div className="space-y-2 mb-4">
           {[
-            { icon: Mail,   text: "rahul@algoryx.in" },
+            { icon: Mail,   text: "admin@insight-dashboard.com" },
             { icon: Phone,  text: "+91 98765 43210" },
             { icon: MapPin, text: "Bengaluru, India" },
           ].map(({ icon: Icon, text }) => (

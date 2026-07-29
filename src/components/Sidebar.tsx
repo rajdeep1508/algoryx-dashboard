@@ -34,7 +34,7 @@ export function Sidebar({ activeNav, onNavChange }: SidebarProps) {
         </div>
         {!collapsed && (
           <span className="text-white font-bold tracking-widest text-sm uppercase">
-            ALGORYX
+            INSIGHT
           </span>
         )}
       </div>
