@@ -4,7 +4,7 @@ A modern, responsive Admin Dashboard built with React + TypeScript.
 
 ## 🔗 Links
 - **Live Demo:** https://insight-dashboard.vercel.app
-- **GitHub:** https://github.com/YOUR_USERNAME/insight-dashboard
+- **GitHub:** https://github.com/rajdeep1508/insight-dashboard
 
 ## ✨ Features
 - Responsive Sidebar with collapse toggle
