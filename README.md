@@ -32,7 +32,7 @@ A modern, responsive Admin Dashboard built with React + TypeScript.
 ### Installation
 
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/insight-dashboard.git
+git clone https://github.com/rajdeep1508/insight-dashboard.git
 
 # Navigate into the folder
 cd insight-dashboard
